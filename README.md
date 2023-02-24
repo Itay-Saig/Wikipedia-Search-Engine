@@ -12,3 +12,4 @@ This repository includes the following files:
 7. updated_inverted_index.py - an updated class of Inverted Index with some more functionalitis.
 8. run_queries.py - a notebook that contains a code that implements Map@40 score and an iterative process to run the queries in the training set, calculate scores and measure run times.
 9. Project Report.pdf - final report about the project and the findings.
+10. Project Presentation - a short presentation summarizing the project and the findings.
